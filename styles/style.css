@@ -226,7 +226,7 @@
   position: relative;
   overflow: hidden;
   padding-bottom: 90px;
-  z-index: -2;
+  z-index: 1;
 }
 
 .kaufman__triangle {
@@ -262,7 +262,7 @@
   color: white;
   width: 60%;
   text-align: center;
-  margin:0 auto 80px;
+  margin:0 auto; /* Олечка, не переживайте, пожалуйста, из-за одной итерации. Я от этого никак не пострадал, так как даже еще не начал выполнение третьего спринта в тренажере. Все мы люди, я на Вас обиду не держу, не расстраивайтесь❤❤❤! */
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
