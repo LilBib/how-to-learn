@@ -225,7 +225,8 @@
   background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
-  padding-bottom: 10px;
+  padding-bottom: 90px;
+  z-index: -2;
 }
 
 .kaufman__triangle {
@@ -237,6 +238,7 @@
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
+  z-index: -1;
 }
 
 .section-title_theme_dark {
@@ -320,6 +322,7 @@
 }
 
 .footer__author {
+  margin: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
