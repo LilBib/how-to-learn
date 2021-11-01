@@ -7,6 +7,6 @@
     background-color:#2f80ed;
     z-index: 1;
   }
-.header:hover .header__square-pic {
+.page:hover .header__square-pic {
   animation: rotation 20s linear infinite;
 }

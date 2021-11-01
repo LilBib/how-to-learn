@@ -7,6 +7,6 @@
     z-index: -1;
   }
 
-  .kaufman:hover .kaufman__triangle {
+  .page:hover .kaufman__triangle {
     animation: rotation 20s linear infinite;
   }
